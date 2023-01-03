@@ -1,5 +1,9 @@
 # nuxt-blog
 
+Blog made using Nuxt.
+
+![Screenshot](screenshot.png)
+
 ## Build Setup
 
 ```bash
