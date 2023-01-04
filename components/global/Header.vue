@@ -1,12 +1,12 @@
 <template>
   <header>
     <h2 class="logo">
-      <nuxt-link to="/">WebDev</nuxt-link>
+      <NuxtLink to="/">WebDev</NuxtLink>
     </h2>
     <nav class="nav desktop">
       <ul>
         <li class="nav__list">
-          <nuxt-link to="/blog">Blog</nuxt-link>
+          <NuxtLink to="/blog">Blog</NuxtLink>
         </li>
       </ul>
     </nav>

@@ -4,7 +4,8 @@
     <video
       autoplay
       loop muted
-      src="/video/clouds.mp4"></video>
+      src="/video/clouds.mp4">
+    </video>
 
     <div class="overlay"></div>
     <div class="text">
